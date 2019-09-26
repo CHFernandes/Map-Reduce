@@ -1,0 +1,55 @@
+Exercício 1:
+
+Abaca fibre, processed but not spun, tow, noils, wast	10863.0
+Abaca fibre, raw	1.0081686E7
+Abrasive powder or grain on a base of other material	7.6849455E7
+Abrasive powder, grain on paper or paperboard support	1.16377734E8
+Abrasive powderor grain on woven textile support	7.0784786E7
+
+Exercício 2:
+
+1988	30994
+1989	63921
+1990	72258
+1991	83933
+1992	121184
+
+Exercício 3:
+
+Mercadoria com a maior quantidade de transações: 	AppWritable3{n=4, commodity='Yarn of other synth staple fibres + cotton not retail'}
+
+Exercício 4:
+
+Ano: 1988 Mercadoria: 1,2,3,4,5,6-hexachlorocyclohexane	28.0
+Ano: 1988 Mercadoria: 1,2-dichloroethane(ethylene dichloride)	4773580.0
+Ano: 1988 Mercadoria: 1,2-dichloropropane and dichlorobutanes	600.0
+Ano: 1988 Mercadoria: 1-chloro-2,3-epoxypropane(epichlorohy-drin)	576127.0
+Ano: 1988 Mercadoria: 1-cyanoguanidine (dicyandiamide)	268370.0
+
+Exercício 5:
+
+Mercadoria: Abaca fibre, processed but not spun, tow, noils, wast   Ano: 1990   Peso: 	97.0
+Mercadoria: Abaca fibre, processed but not spun, tow, noils, wast   Ano: 1992   Peso: 	5020.0
+Mercadoria: Abaca fibre, processed but not spun, tow, noils, wast   Ano: 1994   Peso: 	199.0
+Mercadoria: Abaca fibre, processed but not spun, tow, noils, wast   Ano: 1998   Peso: 	18.0
+Mercadoria: Abaca fibre, processed but not spun, tow, noils, wast   Ano: 1999   Peso: 	199.0
+
+Exercício 6:
+
+Peso: 0.0 Ano: 1989	2439147.3446327685
+Peso: 0.0 Ano: 1990	1939831.6976744186
+Peso: 0.0 Ano: 1991	1948298.3676470588
+Peso: 0.0 Ano: 1992	1093152.7208121826
+Peso: 0.0 Ano: 1993	1915217.8415841584
+
+Exercício 7:
+
+Maior preço por peso: 	commodity='Floating, submersible drilling or production platform', media=4.74093799E8
+
+Exercício 8:
+
+Ano: 1988 Fluxo: Export	12510
+Ano: 1988 Fluxo: Import	15833
+Ano: 1988 Fluxo: Re-Export	2651
+Ano: 1989 Fluxo: Export	26166
+Ano: 1989 Fluxo: Import	33778
